@@ -9,6 +9,7 @@ Return the key and value of the given JS Object
 ## API
 
 >var getKeyValue = require('get-js-object-key-value')
+
 >getKeyValue(object:*JSObject*)
 
 the *JSObject* can be an object with one or more properties 
