@@ -15,7 +15,7 @@ the *JSObject* can be an object with one or more properties
 
 ### Return
 
-*   one property should return an **js object** with *{key, value}*
+*   one property should return a **js object** with *{key, value}*
 *   more than one property should return an **array** with *[{key, value}, {key, value}]*
 *   **undefined** in case to pass an empty JS Object
 
